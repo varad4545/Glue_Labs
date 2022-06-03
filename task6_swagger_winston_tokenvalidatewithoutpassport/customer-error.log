@@ -1,0 +1,14 @@
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:01:41.766Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:06:28.053Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:07:19.530Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:08:11.023Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:09:04.856Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:10:30.928Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:12:40.052Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:17:43.421Z"}
+{"level":"error","message":"Error: SequelizeUniqueConstraintError: Validation error","timestamp":"2022-06-03T07:17:54.306Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:18:03.443Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:19:53.946Z"}
+{"level":"error","message":"Error: ReferenceError: id1 is not defined","timestamp":"2022-06-03T07:38:05.049Z"}
+{"level":"error","message":"Error: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","timestamp":"2022-06-03T11:21:38.427Z"}
+{"level":"error","message":"Error: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","timestamp":"2022-06-03T11:26:21.362Z"}
